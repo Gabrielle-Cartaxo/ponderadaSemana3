@@ -1,0 +1,1 @@
+#criar cache para agilizar o funcionamento do bot
